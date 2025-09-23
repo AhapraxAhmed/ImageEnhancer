@@ -1,5 +1,5 @@
 import Home from "./components/Home";
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 const App = () => {
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 py-8 px-4 ">
